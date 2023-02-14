@@ -86,7 +86,6 @@ The trained model weights are available in current directory.
   ./trained_weights/Downstream_train_Orcathus_test_ Orcathus.pth
   ```
 
-Note that, more pre-trained/trained weights will be publicly available soon.
 
 ## Example
 
