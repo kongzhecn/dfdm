@@ -1,8 +1,9 @@
 # Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing
-This is an official pytorch implementation of 'Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing', which is accepted by IEEE Transactions on Neural Networks and learning systems.
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10051654)]
-[[arxiv](https://arxiv.org/abs/2109.04100)]
-![image](./img/pipeline.png)
+  This is an official pytorch implementation of 'Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing', which is accepted by IEEE Transactions on Neural Networks and learning systems.
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10051654)]
+  [[arxiv](https://arxiv.org/abs/2109.04100)]
+  
+  ![image](./img/pipeline.png)
 
 ## Requirements
 
