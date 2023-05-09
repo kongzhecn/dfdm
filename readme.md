@@ -3,7 +3,7 @@ This is an official pytorch implementation of 'Taming Self-Supervised Learning f
 [[Paper](https://ieeexplore.ieee.org/abstract/document/10051654)]
 [[arxiv](https://arxiv.org/abs/2109.04100)]
 
-![image](./img/pipeline.pdf)
+![image](./img/pipeline.png)
 
 ## Requirements
 
