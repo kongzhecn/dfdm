@@ -104,13 +104,11 @@ Such shell can log the prediction and ground truth of test samples using our tra
 
 ## BibTeX
 ```bibtex
-@ARTICLE{10051654,
+@article{kong2023taming,
+  title={Taming self-supervised learning for presentation attack detection: De-folding and de-mixing},
   author={Kong, Zhe and Zhang, Wentian and Liu, Feng and Luo, Wenhan and Liu, Haozhe and Shen, Linlin and Ramachandra, Raghavendra},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing}, 
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2023},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TNNLS.2023.3243229}}
+  publisher={IEEE}
+}
 ```
